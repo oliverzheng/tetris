@@ -13,9 +13,9 @@ pixel as an Red, Green, Blue, and Alpha value to be rendered with a surface.
 
 #include "DataTypes.h"
 #include <cstring>
-#include <windows.h> 
+#include <windows.h>
 #include <fstream>
-#include <d3d8.h> 
+#include <d3d8.h>
 
 #pragma once
 
